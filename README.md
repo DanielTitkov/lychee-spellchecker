@@ -1,2 +1,2 @@
 # lychee-spellchecker
-Simple spellchecker project
+Simple statistical spellchecker project
